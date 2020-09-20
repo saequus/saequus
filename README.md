@@ -35,7 +35,7 @@
 - 🌐 Visit my [website](https://spetsyian.com/);
 - 📫 Please email via slava@spetsyian.com to reach me;
 - 📝 See my [Curriculum Vitae](https://spetsyian.com/static/Slava_Spetsyian_CV.pdf) to get more info;
-- 🤔 My interests are Web Development, High Load Systems, Algorithms & Analytics.
+- 🤔 My interests are Data Visualisation, High Load Systems, Algorithms & Analytics.
 
 <br />
 
