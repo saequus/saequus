@@ -18,7 +18,7 @@
 <img align="right" width="50%" alt="GIF" src="https://thumbs.gfycat.com/BreakableGlaringImpala-size_restricted.gif" />
 <div style="color: #e5289e">
   <div>
-    Hi, I am a Full Stack Web Developer from 🇧🇾 Belarus. Currently working as a 🚀 Growth Engineer at 
+    Hi, I am a Full Stack Web Developer from 🤍❤️🤍 Belarus. Currently working as a 🚀 Growth Engineer at 
     <a href="https://www.emergingtravel.com/">Emerging Travel Group</a>.
   </div>
   <br/>
