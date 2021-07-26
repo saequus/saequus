@@ -34,7 +34,6 @@
 - 💼 I’m working as a Growth Engineer at [Emerging Travel Group](https://www.emergingtravel.com/);
 - 🌐 Visit my [website](https://spetsyian.com/);
 - 📫 Please email via slava@spetsyian.com to reach me;
-- 📝 See my [Curriculum Vitae](https://spetsyian.com/assets/Slava_Spetsyian_CV.pdf) to get more info;
 - 🤔 My interests are Data Visualisation, High Load Systems, Algorithms & Analytics.
 
 <br />
