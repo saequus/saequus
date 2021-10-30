@@ -18,8 +18,7 @@
 <img align="right" width="50%" alt="GIF" src="https://thumbs.gfycat.com/BreakableGlaringImpala-size_restricted.gif" />
 <div style="color: #e5289e">
   <div>
-    Hi, I am a Full Stack Engineer from Belarus. Currently working as a 🚀 Growth Engineer at 
-    <a href="https://www.emergingtravel.com/">Emerging Travel Group</a>.
+    Hi, I am a Full Stack Engineer from Belarus. Currently working as a 🚀 Growth Engineer and 💻 Backend Developer.
   </div>
   <br/>
   <div>
@@ -31,10 +30,9 @@
 </div>
 <br/>
 
-- 💼 I’m working as a Growth Engineer at [Emerging Travel Group](https://www.emergingtravel.com/);
 - 🌐 Visit my [website](https://spetsyian.com/);
 - 📫 Please email via slava@spetsyian.com to reach me;
-- 🤔 My interests are Data Visualisation, High Load Systems, Algorithms & Analytics.
+- 🤔 My interests are Data Visualisation, High Load Distributed Systems, Algorithms & Analytics.
 
 <br />
 
@@ -53,8 +51,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br/>
-
-
-
 
 
