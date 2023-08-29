@@ -50,7 +50,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://img.icons8.com/?size=512&id=cvzmaEA4kC0o&format=png"></code>
+<code><img height="20" src="https://img.icons8.com/?size=512&id=cvzmaEA4kC0o&format=png"></code> <!--k8s-->
+<code><img height="20" src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png"></code> <!--django-->
+<code><img height="20" src="https://img.icons8.com/?size=512&id=cdYUlRaag9G9&format=png"></code> <!--docker-->
+<code><img height="20" src="https://img.icons8.com/?size=512&id=38561&format=png"></code> <!--postgres-->
+<code><img height="20" src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png"></code> <!--gcloud-->
+<code><img height="20" src="https://img.icons8.com/?size=512&id=33039&format=png"></code> <!--aws-->
+
+
 <br/>
 
 
