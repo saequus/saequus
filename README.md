@@ -43,20 +43,49 @@
 
 <h3 style='color: #e5289e;'>Languages and Tools<h3> 
 
-
+<h2>General</h2>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://img.icons8.com/?size=512&id=cvzmaEA4kC0o&format=png"></code> <!--k8s-->
-<code><img height="20" src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png"></code> <!--django-->
-<code><img height="20" src="https://img.icons8.com/?size=512&id=cdYUlRaag9G9&format=png"></code> <!--docker-->
-<code><img height="20" src="https://img.icons8.com/?size=512&id=38561&format=png"></code> <!--postgres-->
+
+<br/>
+
+<h2>Frontend Frameworks</h2>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<br/>
+
+<h2>Backend Frameworks</h2>
+<code>
+ <a href="https://www.djangoproject.com/">
+  <img height="20" src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png"> <!--django-->
+ </a>
+</code> 
+
+<h2>Cloud</h2>
 <code><img height="20" src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png"></code> <!--gcloud-->
 <code><img height="20" src="https://img.icons8.com/?size=512&id=33039&format=png"></code> <!--aws-->
 
+<br/>
+
+<h2>Deployment</h2>
+<code>
+ <a href="https://kubernetes.io/"
+  <img height="20" src="https://img.icons8.com/?size=512&id=cvzmaEA4kC0o&format=png"> <!--k8s-->
+ </a>
+</code>
+<code>
+ <a href="https://www.docker.com/"
+  <img height="20" src="https://img.icons8.com/?size=512&id=cdYUlRaag9G9&format=png"> <!--docker-->
+ </a>
+</code> 
+
+<br/>
+
+<h2>Databases</h2>
+<code><img height="20" src="https://img.icons8.com/?size=512&id=38561&format=png"></code> <!--postgres-->
 
 <br/>
 
