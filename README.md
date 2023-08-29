@@ -16,22 +16,21 @@
 <br/>
 
 <img align="right" width="50%" alt="GIF" src="https://thumbs.gfycat.com/BreakableGlaringImpala-size_restricted.gif" />
-<div style="color: #e5289e">
-  <div>
+<div>
+  <p>
     Hi, I am a Full Stack Engineer from Belarus. Previously, a Growth Engineer 🚀, currently working as a Full Stack Engineer 💻.
-  </div>
-  <br/>
-  <div>
+  </p>
+  <p>
     I contribute code to confirm or reject hypotheses, and add integrations to meet business needs. 
     While improving product with additional features, 
     I add analytics into everything I build, so later we can 
     determine the success of our experiments. 
-  </div>
+  </p>
 </div>
 <br/>
 
-- 🌐 Visit my [website](https://spetsyian.com/);
-- 📫 Please email via slava@spetsyian.com to reach me;
+- 🌐 Visit my personal [page](https://spetsyian.com/);
+- 📫 Contact via slava@spetsyian.com to reach me;
 - 🤔 My interests are Data Visualisation, High Load Distributed Systems, Algorithms & Analytics.
 
 <br />
@@ -40,9 +39,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saequus&theme=synthwave&hide=css" />
 </a>
 
-
-<h2 style='color: #e5289e;'>Languages and Tools<h2> 
-
+<h2>Tools</h2>
 <h3>General</h3>
 <div style="display: flex">
  <a href="https://vuejs.org/">
@@ -60,10 +57,15 @@
 </div>
 
 <h3>Frontend Frameworks</h3>
-
 <div style="display: flex">
+ <a href="https://react.dev/">
+  <img height="20" src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png">
+ </a>
  <a href="https://vuejs.org/">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+ </a>
+ <a href="https://vitejs.dev/">
+  <img height="20" src="https://vitejs.dev/logo.svg">
  </a>
 </div>
 
@@ -76,6 +78,10 @@
  <a href="https://nodejs.org/en">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
  </a>
+ <a href="https://fastapi.tiangolo.com/">
+  <img height="20" src="https://fastapi.tiangolo.com/img/favicon.png">
+ </a>
+
 </div>
 
 <h3>Cloud</h3>
