@@ -18,23 +18,19 @@
 <img align="right" width="50%" alt="GIF" src="https://thumbs.gfycat.com/BreakableGlaringImpala-size_restricted.gif" />
 <div>
   <p>
-    Hi, I am a Full Stack Engineer from Belarus. Previously, a Growth Engineer 🚀, currently working as a Full Stack Engineer 💻.
+    Hi, I'm MLOps & Full Stack Engineer 💻 
   </p>
   <p>
-    I contribute code to confirm or reject hypotheses, and add integrations to meet business needs. 
-    While improving product with additional features, 
-    I add analytics into everything I build, so later we can 
-    determine the success of our experiments. 
+    Designing and operating ML systems end-to-end: from model deployment pipelines to production-grade monitoring and full stack integrations.
   </p>
 </div>
 <br/>
 
 - 🌐 Visit my personal [page](https://spetsyian.com/);
 - 📫 Contact via slava@spetsyian.com to reach me;
-- 🤔 My interests are Data Visualisation, High Load Distributed Systems, Algorithms & Analytics.
+- 🤔 Focus areas: ML model deployment · production monitoring · distributed systems · data visualization · algorithmic analytics
 
 <br />
-
 <a href="https://github.com/saequus">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saequus&theme=synthwave&hide=css" />
 </a>
